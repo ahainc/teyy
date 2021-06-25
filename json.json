@@ -1,0 +1,463 @@
+[
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Unity.mp3?raw=true",
+    "name": "Unity - TheFatRat",
+    "bmp": 106,
+    "startTime": 0.05,
+    "diamonds": 0,
+    "type": "OPEN",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 1
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Song%20oneold.mp3?raw=true",
+    "name": "Song one",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Song%20two.mp3?raw=true",
+    "name": "Song two",
+    "bmp": 105,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "OPEN",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Brooklyn_Heights.mp3?raw=true",
+    "name": "Brooklyn Heights",
+    "bmp": 92,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/MotivationRock.mp3?raw=true",
+    "name": "Motivation Rock",
+    "bmp": 95,
+    "startTime": 1,
+    "diamonds": 40,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/abcplayground.mp3?raw=true",
+    "name": "ABC playground",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/SunnyDay_Electrojam.mp3?raw=true",
+    "name": "Sunny Day",
+    "bmp": 100,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/springsonata.mp3?raw=true",
+    "name": "Spring sonata",
+    "bmp": 99,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Timeflies.mp3?raw=true",
+    "name": "Time Flies",
+    "bmp": 100,
+    "startTime": 0.9,
+    "diamonds": 30,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Windfall.mp3?raw=true",
+    "name": "TheFatRat - Windfall",
+    "bmp": 102,
+    "startTime": 0.13,
+    "diamonds": 50,
+    "type": "HIDE",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/bestfriendforever.mp3?raw=true",
+    "name": "Best Friend Forever",
+    "bmp": 102,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/AMomentToRemember.mp3?raw=true",
+    "name": "A Moment To Remember",
+    "bmp": 91,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/EasterEggHunt_DrTimWaters.mp3?raw=true",
+    "name": "Easter Egg Hunt",
+    "bmp": 110,
+    "startTime": 0.45,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/flytosydney.mp3?raw=true",
+    "name": "Fly to sydney",
+    "bmp": 115,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/firstsnow.mp3?raw=true",
+    "name": "First Snow",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/InspiringPianoRomantic.mp3?raw=true",
+    "name": "Inspiring Piano Romantic",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/KidTheme.mp3?raw=true",
+    "name": "Kid Theme",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/PianoRomantic.mp3?raw=true",
+    "name": "Piano Romantic",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/LightPiano.mp3?raw=true",
+    "name": "Light Piano",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/KidsMusicFun.mp3?raw=true",
+    "name": "Kids Music Fun",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/strawberry.mp3?raw=true",
+    "name": "Strawberry cupcake",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Dead.mp3?raw=true",
+    "name": "Dead",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/InspiringPiano_Korolkov.mp3?raw=true",
+    "name": "Inspiring Piano",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 2,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/InspiringUpliftingSummerPop.mp3?raw=true",
+    "name": "Inspiring Upliftin Summer",
+    "bmp": 125,
+    "startTime": 1,
+    "diamonds": 30,
+    "type": "VIDEO",
+    "version": 2,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/EasterHoliday_Purpleplanet.mp3?raw=true",
+    "name": "Easter Holiday",
+    "bmp": 125,
+    "startTime": 0.4,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/CorporateMotivate_MikeSounds.mp3?raw=true",
+    "name": "Corporate Motivate",
+    "bmp": 125,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Time_Lapse.mp3?raw=true",
+    "name": "TheFatRat - Time Lapse",
+    "bmp": 128,
+    "startTime": 0.1,
+    "diamonds": 50,
+    "type": "HIDE",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/YouCanAchieve.mp3?raw=true",
+    "name": "You Can Achieve",
+    "bmp": 128,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Pophousetrapelectro_Frontmusic.mp3?raw=true",
+    "name": "Pop House Trap Electro",
+    "bmp": 128,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/EDMFESTIVAL_MaikonMusic.mp3?raw=true",
+    "name": "EDM Festival",
+    "bmp": 128,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/ThisisEDM.mp3?raw=true",
+    "name": "This is EDM",
+    "bmp": 128,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/TheDubSteps_FASSounds.mp3?raw=true",
+    "name": "The Dub Steps",
+    "bmp": 129,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/PlayfulClassic_Serginxs.mp3?raw=true",
+    "name": "Playful Classic",
+    "bmp": 131,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Evolve.mp3?raw=true",
+    "name": "Evolve",
+    "bmp": 132,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/sunflowerday.mp3?raw=true",
+    "name": "Sunflower day",
+    "bmp": 133,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/appleday.mp3?raw=true",
+    "name": "Apple day",
+    "bmp": 133,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Vanlentine2.mp3?raw=true",
+    "name": "Valentine 2",
+    "bmp": 135,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/PianoBallad_Praded.mp3?raw=true",
+    "name": "Piano Ballad",
+    "bmp": 137,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Edmtrap_Mikebiz.mp3?raw=true",
+    "name": "EDM Trap",
+    "bmp": 140,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/ChillTrap.mp3?raw=true",
+    "name": "Chill Trap",
+    "bmp": 141,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/EasterBunny_Pressmaster.mp3?raw=true",
+    "name": "Easter Bunny",
+    "bmp": 144,
+    "startTime": 0.35,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/BeTrap.mp3?raw=true",
+    "name": "Be Trap",
+    "bmp": 145,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 2,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/ChristmasAdventure_Korolkov.mp3?raw=true",
+    "name": "Christmas Adventure",
+    "bmp": 148,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/Energeticparty_Kicktracks.mp3?raw=true",
+    "name": "Energetic Party",
+    "bmp": 149,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 2,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/feelgoodday.mp3?raw=true",
+    "name": "Feel good day",
+    "bmp": 150,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 1,
+    "tags": null
+  },
+  {
+    "path": "https://github.com/ahainc/teyy/blob/main/FutureSport.mp3?raw=true",
+    "name": "Future Sport",
+    "bmp": 150,
+    "startTime": 1,
+    "diamonds": 50,
+    "type": "LOCK",
+    "version": 1,
+    "tags": null
+  }
+]
